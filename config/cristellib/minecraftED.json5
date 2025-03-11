@@ -1,0 +1,71 @@
+/*
+This config file makes it possible to switch off any Minecraft structure.
+To disable a structure, simply set the value of that structure to "false".
+To change the rarity of a structure category, use the other file in the folder.
+*/
+{
+	"strongholds": {
+		"stronghold": true
+	},
+	"ocean_ruins": {
+		"ocean_ruin_cold": true,
+		"ocean_ruin_warm": true
+	},
+	"ruined_portals": {
+		"ruined_portal_nether": true,
+		"ruined_portal_desert": true,
+		"ruined_portal_jungle": true,
+		"ruined_portal_mountain": true,
+		"ruined_portal_swamp": true,
+		"ruined_portal_ocean": true,
+		"ruined_portal": true
+	},
+	"villages": {
+		"village_taiga": true,
+		"village_savanna": true,
+		"village_snowy": true,
+		"village_desert": true,
+		"village_plains": true
+	},
+	"woodland_mansions": {
+		"mansion": true
+	},
+	"ancient_cities": {
+		"ancient_city": true
+	},
+	"igloos": {
+		"igloo": true
+	},
+	"buried_treasures": {
+		"buried_treasure": true
+	},
+	"ocean_monuments": {
+		"monument": true
+	},
+	"jungle_temples": {
+		"jungle_pyramid": true
+	},
+	"nether_fossils": {
+		"nether_fossil": true
+	},
+	"desert_pyramids": {
+		"desert_pyramid": true
+	},
+	"end_cities": {
+		"end_city": true
+	},
+	"swamp_huts": {
+		"swamp_hut": true
+	},
+	"shipwrecks": {
+		"shipwreck": true,
+		"shipwreck_beached": true
+	},
+	"pillager_outposts": {
+		"pillager_outpost": true
+	},
+	"nether_complexes": {
+		"fortress": true,
+		"bastion_remnant": true
+	}
+}

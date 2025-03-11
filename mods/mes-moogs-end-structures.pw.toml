@@ -1,0 +1,13 @@
+name = "MES - Moog's End Structures"
+filename = "mes-1.4.2-1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4PuRGfV/versions/FxxSViQc/mes-1.4.2-1.21.4.jar"
+hash-format = "sha512"
+hash = "83f5262e6a59ab998eb0d7d6a59c85c30cfe245e61b5bfe1fc201187f78e89219ec544b8d71ffd7876503d293667cd9a4df9d5bbba5264cabf27498adf011598"
+
+[update]
+[update.modrinth]
+mod-id = "r4PuRGfV"
+version = "FxxSViQc"
