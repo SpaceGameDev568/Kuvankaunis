@@ -2,6 +2,8 @@
 
 Kuvankaunis is the Finnish word for "Picturesque", and it describes perfectly what you'll find in this Minecraft Modpack! We've got more then just pretty graphics though, here's an overview of the features:
 
+https://modrinth.com/modpack/kuvankaunis
+
 ## Features:
 
 ### Accessibility
