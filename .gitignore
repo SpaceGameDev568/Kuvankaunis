@@ -1,2 +1,5 @@
 # Ignore executables, such as Packwiz
 *.exe
+
+# Ignore packed modpack manifest
+*.mrpack
