@@ -1,0 +1,13 @@
+name = "Almanac"
+filename = "Almanac-1.21.3-fabric-1.4.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gi02250Z/versions/inGMPti6/Almanac-1.21.3-fabric-1.4.4.jar"
+hash-format = "sha512"
+hash = "fbddf96d349b8c28c3dc48f6a592d1fd68ad805d30344e2de5d5d98d3e67608143c05f25f734408c2975fa1659773518ce70865a1537fdbc8cb891f600df5f86"
+
+[update]
+[update.modrinth]
+mod-id = "Gi02250Z"
+version = "inGMPti6"

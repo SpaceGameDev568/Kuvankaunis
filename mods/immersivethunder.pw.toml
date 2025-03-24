@@ -1,0 +1,13 @@
+name = "ImmersiveThunder"
+filename = "immersivethunder-fabric-1.21.4-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uKjKoMsj/versions/CbGWNjO8/immersivethunder-fabric-1.21.4-1.3.0.jar"
+hash-format = "sha512"
+hash = "2515656617f2ebe1e09fbf0d141c9ccc525fb757fdddbb71643743022e78eeb579258da84eafaf65173807fb5be768f9a29f8652e6991ba04638e71c56c406fb"
+
+[update]
+[update.modrinth]
+mod-id = "uKjKoMsj"
+version = "CbGWNjO8"
