@@ -1,13 +1,13 @@
 name = "MES - Moog's End Structures"
-filename = "mes-1.4.2-1.21.4.jar"
+filename = "MoogsEndStructures-1.21-2.0.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/r4PuRGfV/versions/FxxSViQc/mes-1.4.2-1.21.4.jar"
+url = "https://cdn.modrinth.com/data/r4PuRGfV/versions/NAAW6w2G/MoogsEndStructures-1.21-2.0.0.jar"
 hash-format = "sha512"
-hash = "83f5262e6a59ab998eb0d7d6a59c85c30cfe245e61b5bfe1fc201187f78e89219ec544b8d71ffd7876503d293667cd9a4df9d5bbba5264cabf27498adf011598"
+hash = "b41f683a8ea99b5932802f077f7ea22dbcf733159d36ad43a05c2379b50f9f4c3ddcef9cfe0abbba68230e12b2cc4a3ebf1969be1746ef8b1db5398eb89e5940"
 
 [update]
 [update.modrinth]
 mod-id = "r4PuRGfV"
-version = "FxxSViQc"
+version = "NAAW6w2G"

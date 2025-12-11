@@ -1,0 +1,13 @@
+name = "Fusion Emissive Ores"
+filename = "Fusion Emissive Ores v1.0.2 for Minecraft 1.20-1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/anEmXbCW/versions/X88tJXyK/Fusion%20Emissive%20Ores%20v1.0.2%20for%20Minecraft%201.20-1.21.8.zip"
+hash-format = "sha512"
+hash = "18ada4a7a9d90aace3458a344c201279cfa652204c8180ce26e7d72801865cf1a38e5db5258dcbc352ddfc1525e892779e9db99a0f53ad4e2a888db882d81bab"
+
+[update]
+[update.modrinth]
+mod-id = "anEmXbCW"
+version = "X88tJXyK"

@@ -1,0 +1,13 @@
+name = "Fusion 3D Items"
+filename = "Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YCXs6v9u/versions/KcH0PFLb/Fusion%203D%20Items%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"
+hash-format = "sha512"
+hash = "4e4631b4050639021c77218b8ec65d41a3136d8bed7e23ca497545f517e708ad513190c2d1479be7eb393b88853abf5a117442ed81417fd502830e654a1fe10b"
+
+[update]
+[update.modrinth]
+mod-id = "YCXs6v9u"
+version = "KcH0PFLb"

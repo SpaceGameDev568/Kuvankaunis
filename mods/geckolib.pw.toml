@@ -1,0 +1,13 @@
+name = "Geckolib"
+filename = "geckolib-fabric-1.21.10-5.3-alpha-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/7qjQQSWv/geckolib-fabric-1.21.10-5.3-alpha-3.jar"
+hash-format = "sha512"
+hash = "8feeb42b5849376526a606acdc1c78357263100583cb4400974a1eb864a95b72323836d31781709885947da0e36747698db989141e18169e5cc79b7f27a3a1e5"
+
+[update]
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "7qjQQSWv"

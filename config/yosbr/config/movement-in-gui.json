@@ -1,0 +1,37 @@
+{
+  "Toggles": {
+    "modEnable": {
+      "enable": true
+    },
+    "inCreative": {
+      "enable": true
+    },
+    "isAnvil": {
+      "enable": true
+    },
+    "isMultiplayer": {
+      "enable": true
+    },
+    "forwardKey": {
+      "enable": true
+    },
+    "backwardKey": {
+      "enable": true
+    },
+    "leftKey": {
+      "enable": true
+    },
+    "rightKey": {
+      "enable": true
+    },
+    "jumpKey": {
+      "enable": true
+    },
+    "sneakKey": {
+      "enable": true
+    },
+    "sprintKey": {
+      "enable": true
+    }
+  }
+}

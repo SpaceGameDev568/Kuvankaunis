@@ -1,0 +1,50 @@
+{
+  "structures": {
+    "generatesmallVillage": true,
+    "generatemediumVillage": true,
+    "generatelargeVillage": true,
+    "generatePillagerOutpost": true,
+    "enabledvillage": [
+      "beach",
+      "christmas",
+      "desert",
+      "desert_oasis",
+      "dark_forest",
+      "jungle",
+      "jungle_tree",
+      "mesa",
+      "mesa_fortified",
+      "mountain",
+      "mountain_alpine",
+      "mushroom",
+      "plains",
+      "plains_fortified",
+      "savanna",
+      "savanna_na",
+      "snowy_igloo",
+      "swamp",
+      "swamp_fortified",
+      "taiga",
+      "taiga_fortified"
+    ],
+    "enabledpillageroutpost": [
+      "beach",
+      "dark_forest",
+      "desert",
+      "jungle",
+      "badlands",
+      "mountain",
+      "plains",
+      "savanna",
+      "snowy",
+      "swamp",
+      "taiga"
+    ]
+  },
+  "weights": {
+    "smallVillageWeight": 10,
+    "mediumVillageWeight": 4,
+    "largeVillageWeight": 1,
+    "OutpostWeight": 1
+  }
+}

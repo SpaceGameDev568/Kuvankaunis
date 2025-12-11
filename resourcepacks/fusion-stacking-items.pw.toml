@@ -1,0 +1,13 @@
+name = "Fusion Stacking Items"
+filename = "Fusion Stacking Items v1.0.1 for Minecraft 1.20-1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d2NwuerS/versions/O0ozK6eQ/Fusion%20Stacking%20Items%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"
+hash-format = "sha512"
+hash = "f09838178992ec440633d4ab9858a435f6d80b183bbd1ec7c98dc56962bee656685164643554afdb3c8055563b674790b4394767bfdc4bf120629fe62aa0c0b0"
+
+[update]
+[update.modrinth]
+mod-id = "d2NwuerS"
+version = "O0ozK6eQ"

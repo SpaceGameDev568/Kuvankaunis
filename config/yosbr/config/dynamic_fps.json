@@ -1,0 +1,18 @@
+{
+  "uncap_menu_frame_rate": true,
+  "battery_tracker": {
+    "enabled": true,
+    "switch_states": true
+  },
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 30
+    },
+    "unplugged": {
+      "frame_rate_target": 60
+    },
+    "abandoned": {
+      "frame_rate_target": 30
+    }
+  }
+}

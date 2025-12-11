@@ -1,13 +1,13 @@
 name = "Dynamic Crosshair Compat"
-filename = "dynamiccrosshaircompat-4.0+1.21.3.jar"
+filename = "dynamiccrosshaircompat-4.4+1.21.10-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EwPIWPJ9/versions/apK3fE8j/dynamiccrosshaircompat-4.0%2B1.21.3.jar"
+url = "https://cdn.modrinth.com/data/EwPIWPJ9/versions/TCK2dnmw/dynamiccrosshaircompat-4.4%2B1.21.10-fabric.jar"
 hash-format = "sha512"
-hash = "44088737517a9b9fa7c8669f60c31d6d73c43c519fae4eb57dca18b16ed777b3d42ba6f27f6754539994e24d5765be69651b7814ac2cc2a7e1b952da639feff4"
+hash = "bc340c519c5bce5cfe17337fba05a2b80f31d9de598e783ecaaa538d671d4b906e3fb38aad133ef59ee6b99daf111cd830c6f5f421b8b7115602c69e329fb3b2"
 
 [update]
 [update.modrinth]
 mod-id = "EwPIWPJ9"
-version = "apK3fE8j"
+version = "TCK2dnmw"

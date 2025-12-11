@@ -1,0 +1,10 @@
+/*
+WWOO add-on Config
+The config to enable various add-ons for William Wythers' Overhauled Overworld!
+*/
+{
+	// This add-on modifies rivers to make them a viable method of travel.
+	"navigableRivers": false,
+	// This add-on adds tepuis to mountainous regions bordering the Jungle biome.
+	"toweringTepuis": false
+}

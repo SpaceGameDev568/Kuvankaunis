@@ -1,6 +1,0 @@
-autoJump:false
-darkMojangStudiosBackground:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.9.3.zip","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip","file/Iris Buttons Everywhere.1-42.zip"]
-incompatibleResourcePacks:["clientsort","mes","modernfix","sodiumdynamiclights","sodiumextras","sodiumoptionsapi","sodiumoptionsmodcompat","txnilib","yet_another_config_lib_v3","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip"]
-advancedItemTooltips:true
-pauseOnLostFocus:true

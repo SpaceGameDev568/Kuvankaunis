@@ -1,13 +1,13 @@
 name = "Towns and Towers"
-filename = "t_and_t-fabric-neoforge-1.13.5.jar"
-side = "server"
+filename = "t_and_t-fabric-neoforge-1.13.7.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DjLobEOy/versions/HEqgNPcC/t_and_t-fabric-neoforge-1.13.5.jar"
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/NXAdx4ui/t_and_t-fabric-neoforge-1.13.7.jar"
 hash-format = "sha512"
-hash = "c3e706f399792db2a8baa1426f44390b936b7221ac7757fa0a9cf3cb04bb4b1f5aeb94d491e1c9fea8a62238d59ae08f29c65746628ff7e96171ad17c5a007d2"
+hash = "7efea759aa7b59c7977fe2e1d189a417892bca2fdbabc0e547ea921425cde5f262e982556fc83d0209910627dc349e57cd542e72dd0783cac8c7c42218b7b36b"
 
 [update]
 [update.modrinth]
 mod-id = "DjLobEOy"
-version = "HEqgNPcC"
+version = "NXAdx4ui"

@@ -1,0 +1,13 @@
+name = "Fusion Block Transitions"
+filename = "Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ajcwQmG4/versions/Mtnn67U3/Fusion%20Block%20Transitions%20v1.0.3%20for%20Minecraft%201.20-1.21.8.zip"
+hash-format = "sha512"
+hash = "f6901eb70ac14868dc2a151c5df6ed673e43fe2fee1b4929314fe17a1ec4ff864bc39d2b303923b701a3eb1a4bc2bdb311f2f3f6ec44e98f1285ad072d62773a"
+
+[update]
+[update.modrinth]
+mod-id = "ajcwQmG4"
+version = "Mtnn67U3"

@@ -1,0 +1,13 @@
+name = "Movement In GUI"
+filename = "movement-in-gui-v1.1.0-mc1.21.11+build.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tTLRvvmr/versions/jjBEwWCt/movement-in-gui-v1.1.0-mc1.21.11%2Bbuild.11.jar"
+hash-format = "sha512"
+hash = "d8d399b98a87a1d8e2da2916ddb3264fe46f166c5c2a8c589ba830fd733a5da13ee32fa73b08cfa44583eac2c86f3ae7ec8e4aa6fa6b121fb940bcedb6d533a1"
+
+[update]
+[update.modrinth]
+mod-id = "tTLRvvmr"
+version = "jjBEwWCt"

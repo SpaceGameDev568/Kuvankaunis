@@ -1,0 +1,13 @@
+name = "TaskbarIconChanger"
+filename = "taskbariconchanger-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zrCySJAq/versions/RE8SVC8x/taskbariconchanger-1.1.0.jar"
+hash-format = "sha512"
+hash = "b952f795b24954bda3957803127df91667b2bc234c97603dafe716baa92d4f40d190a30cbe9c66320dece7f7c3a53b3cac32da6b2ff6e5b3be38027a9e45c9c5"
+
+[update]
+[update.modrinth]
+mod-id = "zrCySJAq"
+version = "RE8SVC8x"
