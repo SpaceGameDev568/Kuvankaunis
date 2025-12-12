@@ -1,0 +1,4 @@
+# Exclude GitHub files
+/.github
+/README.md
+/LICENSE.md
