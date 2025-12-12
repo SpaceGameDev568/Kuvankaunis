@@ -9,24 +9,12 @@ file = ".idea/indexLayout.xml"
 hash = "4d05af3d32bca5a27e2c87e614e5ab8c6cb8f663edf5584e949b879c3b95762d"
 
 [[files]]
-file = ".idea/projectSettingsUpdater.xml"
-hash = "09614e8996c5c6d74e5bd8461f13376e480ef8601c86b299fee7c1a6dcd537b6"
-
-[[files]]
 file = ".idea/vcs.xml"
 hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
-file = ".idea/workspace.xml"
-hash = "b08a77bdf551251f5a65062d63b7f9089c7728eb65887658c3562b6584e14a8f"
-
-[[files]]
-file = "LICENSE.md"
-hash = "017131edda541cbd22e5d9781d50b3a0aba0c4aa21d6dfba3599290a7661b5b2"
-
-[[files]]
-file = "README.md"
-hash = "85edecec3e080ae36322a93290de8989922b4eff29e60e8fe91e8d1f27f0fe0e"
+file = "RELEASE.md"
+hash = "1452be2e28df9dca8bfc37eb6255e3a290f11366d0921121819418cf654242ed"
 
 [[files]]
 file = "config/TaskbarIconChanger/icon.png"
@@ -50,11 +38,7 @@ hash = "e500052a010b499408814e857c6f6e0ed9503b83adba0d4d2ee7da2515f4848e"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
-
-[[files]]
-file = "config/crash_assistant/modlist.json"
-hash = "2db4ac766eece3fe97d3f64d0a0b62df76f007eb17570658db299c893a1e1a57"
+hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -73,96 +57,12 @@ file = "config/mod-loading-screen/icon.png"
 hash = "e28f20f44961ca6f6322f51dfbd8303953fad15e7baf25e90eba6f2fea01da20"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "8bfacb072b85270879556ae61d300927ca994ce0677aab404bbedd2273a5abe0"
+
+[[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
 hash = "784845ca4763447bf0d8de894c3ba5bfa27598b2b8eb439bb0d7c2830a5f4319"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/client_jar.hash"
-hash = "e607f5ce1d61a192cc3328ad240d7154c2711f3fcaaf6acbffbc2c8ca4f54be1"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/alex.png"
-hash = "99391ed9dff9581ec88daf23b9b028adc9ac91f52889edcff1c982d0923c0cff"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/ari.png"
-hash = "448bda6817fa3894632cc11751f3f080dde917b2ad1679ed106f107984289560"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/efe.png"
-hash = "fa3569f027caadcc17efbb1b46f8d0f2830c408cafc774e1f3bf573f4bb7c419"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/kai.png"
-hash = "00b90f287beba1068032ee973f8b890394a6999f9f1b6ce5db7e58ca47384760"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/makena.png"
-hash = "197307bf92fb9d3adb5808593c88e48ab152335cc4276db4127ccb82d010ca68"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/noor.png"
-hash = "09f9306ed924b1adbb97837d4ca8d09d7057731a26cdecd2076bc8601f752589"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/steve.png"
-hash = "1ff866cb8418b18d0052089cff27dfb90f8fc9727a8cea83e0e876819b58ce19"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/sunny.png"
-hash = "32ff3be1394115bbbbcb3b6aea20f0cd496338d31a5341ef73cf1df6bc963dbe"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/slim/zuri.png"
-hash = "4f9333c958c31268fc813db3b424fb1354d81085ba0be6b112c809390847e350"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/alex.png"
-hash = "c8d78144f653a903d5b4118b94bd808c5522edc300bca3b674a2ffbb3a388dfd"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/ari.png"
-hash = "b77bfca4ff607c1d72ad26867549fb7f0a9317c0811424a189d72cd0d47ca32a"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/efe.png"
-hash = "6e2e2d07136d057997b62ed5a256a577a7678d6f0ef05a7a402cb5096a11143d"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/kai.png"
-hash = "f5b3af3440257759f074ae07b630a65195d7222241dc7af1189b954cf7fc3f76"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/makena.png"
-hash = "e58a664738d0073c348265052ab60a0ebf15f271a1b6aaeec0e47c027bc7cd0e"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/noor.png"
-hash = "66343b7a4d6a63af1abed71437728794a9c5d5fc666a10a3cce666e5759ac3ff"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/steve.png"
-hash = "06628f9cef88520da742ab280a01677ce17c99717f964ed89ed791673121094c"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/sunny.png"
-hash = "c1cf854c5c244a9f07e84b2faba067c20d3cb1156899ca43f85f0efc9a954270"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/cache/default_player_skins/wide/zuri.png"
-hash = "adc7f1b62cdf791096493d14c3edc8b36fd940e4bf10093fc48f461b0f0a3dba"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/config.yml"
-hash = "6e96c2a559620c9f16a613b96e0e6ab44ebe2f2bc2d524752cc0c5e0e5796f0f"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/custom-skulls.yml"
-hash = "aa24c229554aae576618944e30bba3e0c648eee98c8b47bd2255e3780fe87898"
-
-[[files]]
-file = "config/yosbr/config/Geyser-Fabric/locales/en_us.json"
-hash = "d7bee66c4d129fa0bdc274ae6d979d10e8bbc782447c3c257a3758276427f7a8"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -238,23 +138,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/config/cameraoverhaul.toml"
-hash = "40ef73865dcd0c45d7a4b17664ca1deed3abe51398266f0c62205948e49cc365"
+hash = "554ba2d189be748dff1e644f53a3e87e2e03f484aeecc48e8a3bfd1e958f98c5"
 
 [[files]]
 file = "config/yosbr/config/chat_heads.json5"
 hash = "2e33e5590888ad9c37d35ef6ef29d50e8ab7430ee7fd572a69b3583428abebf9"
-
-[[files]]
-file = "config/yosbr/config/chunksfadein.properties"
-hash = "6e5326f1acd1edbe457d8c0516cbf370dabb64d0c6fc42a205d27cf9620bb5cb"
-
-[[files]]
-file = "config/yosbr/config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
-
-[[files]]
-file = "config/yosbr/config/chunky/tasks/minecraft/overworld.properties"
-hash = "071e14d181c3544389996bdb9020bf9d869decabdb346644a9accb986370d8e3"
 
 [[files]]
 file = "config/yosbr/config/collective.json5"
@@ -262,7 +150,7 @@ hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "901ea7f0df7c59a7d0d2ffb640159d4e63661a8d3032d9be88feba1153adfae1"
+hash = "a88316ba7bc5e1eddb1b17cadb74f29773633167b2c02248b147f87c411ca572"
 
 [[files]]
 file = "config/yosbr/config/corgilib/announcement_config.json5"
@@ -361,8 +249,16 @@ file = "config/yosbr/config/fastquit.toml"
 hash = "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e"
 
 [[files]]
+file = "config/yosbr/config/female_gender_mod.json"
+hash = "40fd071d421c030a8656de7200e12e4e20771906659d64b233c988aa9877ec99"
+
+[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/yosbr/config/firstperson.json"
+hash = "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101"
 
 [[files]]
 file = "config/yosbr/config/flashback/.flashback.json.backup"
@@ -375,14 +271,6 @@ hash = "5ead7e26622f06c6588175d4a7508954a66b0db9d4a14f4cade4014df24bd0bf"
 [[files]]
 file = "config/yosbr/config/flashback/imgui.ini"
 hash = "54acfec7639be10a8e116ad69577445bda9d3b165831c4d9353eed1e40178649"
-
-[[files]]
-file = "config/yosbr/config/floodgate/config.yml"
-hash = "c3b0cedffdc49ce1137ec1b3270b462e66faf2de76ed99292934be3b61962402"
-
-[[files]]
-file = "config/yosbr/config/floodgate/key.pem"
-hash = "0ebcfdda924c945ad3f2393b74c77420f86348697f1bbe9483dd113295e7d4db"
 
 [[files]]
 file = "config/yosbr/config/forgeconfigapiport.toml"
@@ -485,16 +373,8 @@ file = "config/yosbr/config/movement-in-gui.json"
 hash = "c30073ca25028da383ce8745cd01c5a17992ead41b1c8f123e1663a84a2c507c"
 
 [[files]]
-file = "config/yosbr/config/oreharvester.json5"
-hash = "4321526b77eb829ba16d4dffc890e0ea26bd424627aa6d07a709d41990b3fb36"
-
-[[files]]
-file = "config/yosbr/config/oreharvester/harvestable_pickaxe_blacklist.txt"
-hash = "acf3b413e383e02cb17206d008acbe1aacd0103a40298e30b7cdfde397a06183"
-
-[[files]]
-file = "config/yosbr/config/replaymod.json"
-hash = "a367470815e5b2d28e7eb781b1b9b22969f91602791fbc2eb7fab0635866e136"
+file = "config/yosbr/config/paperdoll-client.toml"
+hash = "16ecec0c59064472e0fba6547ee8826d482026eacdeb0fbc4b9890983f737cf2"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
@@ -565,10 +445,6 @@ file = "config/yosbr/config/spawnanimations.json"
 hash = "b2b16aad46bca666c1a8393826b2e767cada40664083bea333003b7d969a88ed"
 
 [[files]]
-file = "config/yosbr/config/tectonic.json"
-hash = "588da7504a6b8006f10b6ef396a4c5a073e744602d5478c393ab7e022cd59aa6"
-
-[[files]]
 file = "config/yosbr/config/terrablender.toml"
 hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
 
@@ -583,14 +459,6 @@ hash = "fe4ca0974aca38b27c94e3f1dc092f1688b54f27d9eaa728d61c6ccae4ca1313"
 [[files]]
 file = "config/yosbr/config/transition.json"
 hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
-
-[[files]]
-file = "config/yosbr/config/treeharvester.json5"
-hash = "53815f56d66e3ec1c307d94b025a9df1521d690520bd2c28f6cc4db1e5967fed"
-
-[[files]]
-file = "config/yosbr/config/treeharvester/harvestable_axe_blacklist.txt"
-hash = "a7daeb3c27ef0e2b6aac7d892a38e4dd20866ce50daacefc1af2f50cfa4c0e7d"
 
 [[files]]
 file = "config/yosbr/config/trender.json"
@@ -646,11 +514,11 @@ hash = "b53146815d033dbe0ff1034a63cd8bdfdd6d31ce56aa141883b95869e585415a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "539e2d96489f5392a028c1cd0958754476f13a3651e6a27dbec46e7de7481d1d"
+hash = "a05402f26e8766e280fa906ac01cf9fbd2c8a4c7d685c1cfdd9f135619cd13ab"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7467a101c890769c5d0796e1a4d646074ef8f96c9c1d2995dbb0f3972ea49916"
+hash = "2d3cbf3d77196a08a014270238740515c1b634bc11ad83a51140d7bcfc62d6b3"
 metafile = true
 
 [[files]]
@@ -849,6 +717,11 @@ hash = "5014dd5897aff9ec19601d1a5dd3536611444a78e328fe97e6dccda60b18bda9"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "17ed48741ee98924490cc531b125fc69ec40c61860797808dc07aab849b9ec1f"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
 metafile = true
@@ -985,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
+hash = "ba9cdad1c81aa5fbae79686c0eac7daaaca67990f0dd4a6f4ece5def1d17a924"
 metafile = true
 
 [[files]]
@@ -1009,8 +882,18 @@ hash = "fadb2597ab37f041ae5a101ba84cd35ffa3c445147e10c45dc550c833133c6fe"
 metafile = true
 
 [[files]]
+file = "mods/paper-doll.pw.toml"
+hash = "7562a8487f83eed90685308731efc8ae8e4fc8e3b314d00a5ed92aef0f2b94af"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
 metafile = true
 
 [[files]]

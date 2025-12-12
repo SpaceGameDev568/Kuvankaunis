@@ -14,7 +14,7 @@
           "is_l_c_e": false,
           "deadzones": {
             "controlify:right_stick": 0.08,
-            "controlify:left_stick": 0.11650014
+            "controlify:left_stick": 0.07650015
           },
           "deadzones_calibrated": true,
           "delayed_calibration": false,
@@ -22,7 +22,7 @@
           "keep_default_bindings": false,
           "radial_actions": [
             "controlify:toggle_hud_visibility",
-            "controlify:change_perspective",
+            "controlify:toggle_debug_menu",
             "controlify:drop_stack",
             "controlify:open_chat",
             "controlify:swap_hands",

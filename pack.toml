@@ -1,16 +1,16 @@
 name = "Kuvankaunis"
 author = "SpaceGameDev"
-version = "2.1.1"
+version = "2.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8209b15ce027339b68487b166092889523d6681174caff317c7ac30b15c8aa15"
+hash = "387f46d14ae7dfec355269409ae3d6421d364732fde7fc63f37c25613c37453e"
 
 [versions]
 fabric = "0.18.2"
 minecraft = "1.21.10"
 
 [options]
-acceptable-game-versions = ["1.21.8"]
+acceptable-game-versions = ["1.21.8", "1.21.10"]
