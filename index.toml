@@ -577,6 +577,11 @@ hash = "12c4cfdac7981abd1c17758c78f8cd3d115610e2c07b017b2e4a61a975aaaa76"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "5d4fc1fd1456ff9e56f5793444fe0f2074036c66ece29dd7794ffeb14ca3885c"
 metafile = true
@@ -588,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "8bc8952c869b5dadfa6e76e26a084153868a7ad55c949772d222e8a6fd18c1f5"
+hash = "b7fe9d496e798dd9a79d852aefd69d58b7b7f5fd90ed4f6ec503fac1be05751b"
 metafile = true
 
 [[files]]
@@ -648,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
+hash = "cec18d221cb8c8bc1a13ee9657c13a9152673c778471c5bad9482f0b66bd0aeb"
 metafile = true
 
 [[files]]
@@ -858,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ba9cdad1c81aa5fbae79686c0eac7daaaca67990f0dd4a6f4ece5def1d17a924"
+hash = "d3d3ebf53454b237e6ac91a6e3dc5fd34bfeefcf0714a11bfadd3e1488161772"
 metafile = true
 
 [[files]]
@@ -904,6 +909,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
@@ -959,6 +969,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "e166f736d7d67c4dd98cac1b927f571c1cabb58e1b3824b399b100fc77f18e44"
+metafile = true
+
+[[files]]
+file = "mods/technomodel.pw.toml"
+hash = "ff5a607404b318d9f62557379ff47f09d4c193f9b2e0f0c739edb061acf80129"
 metafile = true
 
 [[files]]

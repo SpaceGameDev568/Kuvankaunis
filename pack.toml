@@ -1,12 +1,12 @@
 name = "Kuvankaunis"
 author = "SpaceGameDev"
-version = "2.1.2"
+version = "2.1.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "387f46d14ae7dfec355269409ae3d6421d364732fde7fc63f37c25613c37453e"
+hash = "70cca17d4747e81aed99baaee87aa6023457991232106139c226856182c70f74"
 
 [versions]
 fabric = "0.18.2"
