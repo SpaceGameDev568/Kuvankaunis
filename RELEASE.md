@@ -10,3 +10,4 @@
 
 5. Generate pack again with `packwiz mr export` to test and upload to Modrinth.
 
+6. Run `packwiz list > modlist.txt` and copy the output to the Modrinth description. Select all the text and make it a bulleted list.

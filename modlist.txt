@@ -1,0 +1,112 @@
+3D Skin Layers
+[EMF] Entity Model Features
+[ETF] Entity Texture Features
+Almanac
+AmbientSounds
+Animated Mojang Logo
+AppleSkin
+Architectury API
+BadOptimizations
+Balm
+Better Animations
+Better Statistics Screen
+BetterF3
+Biomes O' Plenty
+Blur+
+Camera Overhaul
+Chat Animation [Smooth Chat]
+Chat Heads
+ChoiceTheorem's Overhauled Village
+CICADA
+Cloth Config API
+Collective
+Complementary Shaders - Reimagined
+Controlify (Controller support)
+CorgiLib
+Crash Assistant
+CreativeCore
+Cristel Lib
+Cubes Without Borders
+Debugify
+Distant Horizons
+Do a Barrel Roll
+Dynamic Crosshair
+Dynamic Crosshair Compat
+Dynamic FPS
+Entity Culling
+Explosive Enhancement
+Fabric API
+Fabric Language Kotlin
+Fadeless
+Fast IP Ping
+FastQuit
+Female Gender Mod
+FerriteCore
+Flashback
+Forge Config API Port
+Fresh Animations
+Fusion (Connected Textures)
+Fusion 3D Items
+Fusion Block Transitions
+Fusion Connected Blocks
+Fusion Connected Glass
+Fusion Emissive Ores
+Fusion Stacking Items
+Geckolib
+GlitchCore
+ImmediatelyFast
+Immersive Interfaces
+Immersive UI
+Incendium
+Iris Shaders
+Jade 🔍
+JamLib
+Konkrete
+LambdaBetterGrass
+Let Me Despawn
+Lithium
+Lithostitched
+Make Bubbles Pop
+MakeUp - Ultra Fast
+MES - Moog's End Structures
+MNS - Moog's Nether Structures
+Mod Loading Screen
+Mod Menu
+More Culling
+Movement In GUI
+No Chat Reports
+No Realms Button
+No Telemetry
+Not Enough Animations
+Nullscape
+OctoLib
+Oh The Biomes We've Gone
+Oh The Trees You'll Grow
+Paper Doll
+Puzzles Lib
+Reese's Sodium Options
+Remove Terralith Intro Message
+Serene Seasons
+Smooth Gui
+Smooth Scrolling
+Sodium
+Solas Shader
+Sort It Out!
+Sound Physics Remastered
+Spawn Animations
+Spawn Animations Compats
+Spellbound Weapons
+TaskbarIconChanger
+TCDCommons API
+TerraBlender
+Terralith
+Text Placeholder API
+Towns and Towers
+TxniLib
+Unique Dark
+Waystones
+Xaero's Minimap
+Xaero's World Map
+YetAnotherConfigLib (YACL)
+Your Options Shall Be Respected (YOSBR)
+Zoomify
