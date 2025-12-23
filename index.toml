@@ -14,7 +14,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = "RELEASE.md"
-hash = "1452be2e28df9dca8bfc37eb6255e3a290f11366d0921121819418cf654242ed"
+hash = "a25f8aef3f4669150ff3119aef9f3f7432122e59e2c4c8a5ee2ff1b5881b5f0d"
 
 [[files]]
 file = "config/TaskbarIconChanger/icon.png"
@@ -62,7 +62,7 @@ hash = "8bfacb072b85270879556ae61d300927ca994ce0677aab404bbedd2273a5abe0"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "784845ca4763447bf0d8de894c3ba5bfa27598b2b8eb439bb0d7c2830a5f4319"
+hash = "5baf3a3283b96bb7e4abb77fdf25ba72827e96447f5df41ce563ff36735ef21b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -255,10 +255,6 @@ hash = "40fd071d421c030a8656de7200e12e4e20771906659d64b233c988aa9877ec99"
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
-
-[[files]]
-file = "config/yosbr/config/firstperson.json"
-hash = "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101"
 
 [[files]]
 file = "config/yosbr/config/flashback/.flashback.json.backup"
@@ -517,6 +513,10 @@ file = "config/yosbr/options.txt"
 hash = "a05402f26e8766e280fa906ac01cf9fbd2c8a4c7d685c1cfdd9f135619cd13ab"
 
 [[files]]
+file = "modlist.txt"
+hash = "4352d6cdfd2eb6cc0ad8cfd9199c0c438c9f3335ee0c4781a6a2960a4797859e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2d3cbf3d77196a08a014270238740515c1b634bc11ad83a51140d7bcfc62d6b3"
 metafile = true
@@ -532,11 +532,6 @@ hash = "da436c26003ac49101f5dea0a217ac57c92260e350979d15e5a3730bdf1a5a62"
 metafile = true
 
 [[files]]
-file = "mods/animated-mojang-logo.pw.toml"
-hash = "e5b5000a02edfac378b8d033c73fb13b8677b925cf45676ab72f1bf62bcb2db7"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -548,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fa1d1286d8bc03ae99442535edd1e3c134ea859b861089e21d8b503e7cba4c67"
+hash = "f8805d3902fb3e31ea9e53f684e3d731b5ac7d2fd2507c475fd1f5f4da266a2f"
 metafile = true
 
 [[files]]
@@ -583,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "5d4fc1fd1456ff9e56f5793444fe0f2074036c66ece29dd7794ffeb14ca3885c"
+hash = "64d08715d11954df9fb8163f0ffb35a76f4492bcb899c4602403245e8f4642fc"
 metafile = true
 
 [[files]]
@@ -613,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "3d084d568e580ca483251634d644310b6e74658fc7529ae2710d2a361ef14fe2"
+hash = "4b97597a98dc205ed238ed2885f13032ff9b1d2abe76e62a59e925ad6f7b8bce"
 metafile = true
 
 [[files]]
@@ -623,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "7db50b8cf17104e1fb7a0b4cc6332cfed473c6294c1bd8a80b16006834ef6f60"
+hash = "1b3666ed4b9327eb423aaf804ec881c657aefd2d6240b258eef886b641f5694a"
 metafile = true
 
 [[files]]
@@ -653,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "cec18d221cb8c8bc1a13ee9657c13a9152673c778471c5bad9482f0b66bd0aeb"
+hash = "064f49cf069fedf5bdcb16e0bce408ce78032d9c40d60e5164cc1f9c54576e5d"
 metafile = true
 
 [[files]]
@@ -698,12 +693,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+hash = "0345fbfa8542b5ec84535fe2aff0f5cc4e801ecc337f926d4e2310b53f458569"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -733,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "e56ab572b86cd0f11f62baa45556a21cf767197a6f028d967814166b10ed3784"
+hash = "4f604f7aa678ad33223048255cb768ddf71c31943f0c88d46d5c83f6dcdb61e5"
 metafile = true
 
 [[files]]
@@ -743,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "f3c666b7a4140f9944920c8279ba897feb3e7ec48086d9b10862ea9b012aeacb"
+hash = "0ca2cc92721517cc429c0a147f7db3fd162fd8bee48bc8c2bad5794c7541b08d"
 metafile = true
 
 [[files]]
@@ -758,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "deb841bd032e5b2722df01d2743b1fc67be20540b9608ee29501909f37ba3015"
+hash = "77364cc74f5c0819ef77e5e2fd11bd304ad98dc193348d3d875e23fae62f8f74"
 metafile = true
 
 [[files]]
@@ -773,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
+hash = "fecd2e19a6afd8109bb6cfc281d158e3f7a5d6646a99340e2ece5d1aaece4edc"
 metafile = true
 
 [[files]]
@@ -803,7 +798,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "251f87892329f54add949ca4291a3676f6af1f741c2462477fa8f21c0b00fa40"
+hash = "c19bfef89f45a7dc94aee5889be3592eff319731d35ed427c6c7de441a30674d"
 metafile = true
 
 [[files]]
@@ -818,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "02136827d47b338d4f1c897cfa1eb4d92bd0f5dfc5300875c9737390ffcc529a"
+hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
 metafile = true
 
 [[files]]
@@ -833,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+hash = "802981efce132e93b99352dacae410bf7b3e356f2e9de14b0ff9cea0beb31bb9"
 metafile = true
 
 [[files]]
@@ -878,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "c44ebcd22270f8ecb006ed6d5cf81693ee07a465d3d90fefc13502aff4ac69b8"
+hash = "e796ceac9505193ab70192a18ab6a2bbdd2030dec6d011f3c2894a5b2e5460ce"
 metafile = true
 
 [[files]]
@@ -992,13 +987,8 @@ hash = "54379eac29e1b71a68d04c25a2a718b395422005a60aa289f24c10312687ee4d"
 metafile = true
 
 [[files]]
-file = "mods/txnilib.pw.toml"
-hash = "12be500b44b1ac597f18d43f9d84d5aed87c75fdf1b1c8ac9cc1a93f1a128f8e"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
-hash = "3a6934f85ad3f72f1657c662348f16c5556add3fb2e6b1dc67dab3666e9c62d0"
+hash = "77693d6c3dcd0a907b6e6b226466990d943fe5d35dd7ae9807a754adf1cc85ae"
 metafile = true
 
 [[files]]
@@ -1036,8 +1026,13 @@ hash = "d6ef28ec7330845f6aeb2176f3a5047ffa0bea9c2767dfe9bb6fb687183aea09"
 metafile = true
 
 [[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "26c0e4a143ee9c0aa5c257996a7efba141c30674f2b0209af5c263c36db555ea"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
 metafile = true
 
 [[files]]
@@ -1077,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "198820b3b05e59c578d19114a55b7e7666d5034b0562ebb37b8e2e88d5b9cbe5"
+hash = "cb199cb7b4a4b65aa343025657a571ba0bde7bfe102a2820532b6fa9ed328bb7"
 metafile = true
 
 [[files]]

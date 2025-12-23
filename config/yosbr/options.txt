@@ -22,7 +22,7 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"false"
 cloudRange:128
 renderDistance:12
 simulationDistance:12
@@ -56,7 +56,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Emissive Ores v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Stacking Items v1.0.1 for Minecraft 1.20-1.21.8.zip","lambdabettergrass:default","file/Unique Dark - Lite - 1.20.2-1.21.x.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/FreshAnimations_v1.10.2.zip","file/Better_Animations.zip","file/Kuvankaunis Pack Resources.zip"]
+resourcePacks:["vanilla","fabric","file/Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Emissive Ores v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Stacking Items v1.0.1 for Minecraft 1.20-1.21.8.zip","lambdabettergrass:default","file/Unique Dark - Lite - 1.20.2-1.21.x.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/FreshAnimations_v1.10.3.zip","file/Better_Animations.zip","file/EvenBetterEnchants_v3_1.21.5+.zip","file/Kuvankaunis Pack Resources.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -157,7 +157,6 @@ key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.s
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
-key_key.firstperson.toggle:key.keyboard.f6
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
