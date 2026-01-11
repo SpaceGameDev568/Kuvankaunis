@@ -3,7 +3,6 @@
 [ETF] Entity Texture Features
 Almanac
 AmbientSounds
-Animated Mojang Logo
 AppleSkin
 Architectury API
 BadOptimizations
@@ -21,6 +20,7 @@ CICADA
 Cloth Config API
 Collective
 Complementary Shaders - Reimagined
+Concurrent Chunk Management Engine (Fabric)
 Controlify (Controller support)
 CorgiLib
 Crash Assistant
@@ -34,6 +34,7 @@ Dynamic Crosshair
 Dynamic Crosshair Compat
 Dynamic FPS
 Entity Culling
+Even Better Enchants
 Explosive Enhancement
 Fabric API
 Fabric Language Kotlin
@@ -86,6 +87,7 @@ Paper Doll
 Puzzles Lib
 Reese's Sodium Options
 Remove Terralith Intro Message
+ScalableLux
 Serene Seasons
 Smooth Gui
 Smooth Scrolling
@@ -98,11 +100,11 @@ Spawn Animations Compats
 Spellbound Weapons
 TaskbarIconChanger
 TCDCommons API
+Technopig
 TerraBlender
 Terralith
 Text Placeholder API
 Towns and Towers
-TxniLib
 Unique Dark
 Waystones
 Xaero's Minimap
