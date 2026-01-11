@@ -1,13 +1,13 @@
 name = "ChoiceTheorem's Overhauled Village"
-filename = "[fabric]ctov-3.6.0b.jar"
+filename = "[Fabric]ctov-3.6.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/fyIUePne/%5Bfabric%5Dctov-3.6.0b.jar"
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/GkrjwPMq/%5BFabric%5Dctov-3.6.1.jar"
 hash-format = "sha512"
-hash = "d9a2faa7c45a7a73d6d0a31a75113bc8f4ddc2cc5809e8ade63f0d0334c7c48c6d995f10836e4e1aaf4213e24947e210c325c21b434c5a512ebe9ca60488d704"
+hash = "42a1bacf44585169295777114510f28c33b86baccde62590c3e47ad9963f9212bb91b4363652fba5081a9c476ad043214555841bc4280fab030a758a1469687d"
 
 [update]
 [update.modrinth]
 mod-id = "fgmhI8kH"
-version = "fyIUePne"
+version = "GkrjwPMq"
