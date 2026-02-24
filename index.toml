@@ -13,10 +13,6 @@ file = ".idea/vcs.xml"
 hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
-file = "RELEASE.md"
-hash = "a25f8aef3f4669150ff3119aef9f3f7432122e59e2c4c8a5ee2ff1b5881b5f0d"
-
-[[files]]
 file = "config/TaskbarIconChanger/icon.png"
 hash = "e28f20f44961ca6f6322f51dfbd8303953fad15e7baf25e90eba6f2fea01da20"
 
@@ -41,6 +37,10 @@ file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
 hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "87d4a90b03b9e7c9dc4447b97d523b8adf6c4cde2b7822ce9bac36faa81f5817"
+
+[[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
 hash = "ac39420512ece55a61087db09fe6c4375aa8bd02966b78716c3e3e404938f693"
 
@@ -62,7 +62,7 @@ hash = "8bfacb072b85270879556ae61d300927ca994ce0677aab404bbedd2273a5abe0"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "5baf3a3283b96bb7e4abb77fdf25ba72827e96447f5df41ce563ff36735ef21b"
+hash = "5ebd1484e4f67fd423d5e312c91d284df5bdd034982c070158bcd1720210a30c"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +94,7 @@ hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
-hash = "e25d2c3affa5bb8f8e24156b0c80f65f2f4a5d898418d4d10ce005052d1659c6"
+hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -137,12 +137,20 @@ file = "config/yosbr/config/blur.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "932e8b27afe6a78cd01f4d0ba658074cbfe56a662c3d600805800089328a60fe"
+
+[[files]]
 file = "config/yosbr/config/cameraoverhaul.toml"
-hash = "554ba2d189be748dff1e644f53a3e87e2e03f484aeecc48e8a3bfd1e958f98c5"
+hash = "40ef73865dcd0c45d7a4b17664ca1deed3abe51398266f0c62205948e49cc365"
 
 [[files]]
 file = "config/yosbr/config/chat_heads.json5"
-hash = "2e33e5590888ad9c37d35ef6ef29d50e8ab7430ee7fd572a69b3583428abebf9"
+hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
+
+[[files]]
+file = "config/yosbr/config/chatanimation.json"
+hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
 
 [[files]]
 file = "config/yosbr/config/collective.json5"
@@ -150,7 +158,7 @@ hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "a88316ba7bc5e1eddb1b17cadb74f29773633167b2c02248b147f87c411ca572"
+hash = "4cbe4cdbc196cd63bcfe13edf7847ee01e39438ca1580329f42d135f51de022e"
 
 [[files]]
 file = "config/yosbr/config/corgilib/announcement_config.json5"
@@ -179,6 +187,22 @@ hash = "cbd58e410a2126df52e7e08529d54bedeb40bb5465b5cb1b81c64f689e922b16"
 [[files]]
 file = "config/yosbr/config/cristellib/built_in_packs.json5"
 hash = "728c327582202df0bebd09193fe11a4d9ecd0dbd44c0d3b9350c06f3faa5e70d"
+
+[[files]]
+file = "config/yosbr/config/cristellib/incendium/structure_placement_config.json5"
+hash = "86d418f04cb5e14edb95568833f9ce421b50493a9445b0fa018c74475b48e701"
+
+[[files]]
+file = "config/yosbr/config/cristellib/incendium/structure_toggle_config.json5"
+hash = "ce93df2b6e4d3a0ed2e456e83c08fc04bae832400e32e0639d957da5e46987b5"
+
+[[files]]
+file = "config/yosbr/config/cristellib/nullscape/structure_placement_config.json5"
+hash = "7de079178b9125685d78b1897aae3cb430dee4f3d72f44ffff235ea885d639e6"
+
+[[files]]
+file = "config/yosbr/config/cristellib/nullscape/structure_toggle_config.json5"
+hash = "d12e2a741dc0ab4336291c1a7c396d19a312223e3cf382d202f32178b0bf0c46"
 
 [[files]]
 file = "config/yosbr/config/cristellib/terralith/structure_placement_config.json5"
@@ -218,7 +242,7 @@ hash = "73ee72b678319124c3212f1fb81aec18b6bd77a27e33e71849e59a77f8e622bf"
 
 [[files]]
 file = "config/yosbr/config/entity_model_features.json"
-hash = "6b3838ad8cdaf2d61d95d819ea11c1aa41f55e53c51813f7c008e01fad39eec5"
+hash = "3b9649c3d18488564db8b033548164ad77bd072c37009d5def731ec3577e15f1"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -238,7 +262,7 @@ hash = "e5c383a52feb6b4cc3a2c961852349cef72c990e0b0e37b525591dc12be6278e"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "f86135c239d5250a488a106e4fd289453ead46ac6d4a12d91895981265691402"
+hash = "274d2e3250e9d120fb8b800c306d5aa6d9fb944553775b0051815d386d79e04b"
 
 [[files]]
 file = "config/yosbr/config/fadeless.json"
@@ -254,7 +278,7 @@ hash = "40fd071d421c030a8656de7200e12e4e20771906659d64b233c988aa9877ec99"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+hash = "fddb9f45485b7ae24191e3d94aa6e94a31016a8d4938d970d7f9877c79235732"
 
 [[files]]
 file = "config/yosbr/config/flashback/.flashback.json.backup"
@@ -274,7 +298,7 @@ hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
+hash = "d16232b7570268b51768ef5410f605117a0be072bf621cccde34d5a5098be566"
 
 [[files]]
 file = "config/yosbr/config/immersiveui.yaml"
@@ -286,7 +310,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "48b55afbb6f71964d06fe2d1d4240a9b868ce81b36d9f0d64bd0a573c7af8e42"
+hash = "3a659132531c513f8c9e8153659c69655aba6ee3af28bacee690939e47851a6f"
 
 [[files]]
 file = "config/yosbr/config/jade/hide-blocks.json"
@@ -302,7 +326,7 @@ hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
-hash = "8bc7b1e089dd52a8f54af8f89600d02386bc41f4d29c151b4bfd778b92fc45a0"
+hash = "ab6ea3adf132cd2b939d3af1a946481a7d1f14a537d437a6dbcd2e9842d6695c"
 
 [[files]]
 file = "config/yosbr/config/jade/profiles/1/jade.json"
@@ -367,6 +391,10 @@ hash = "ebe6283ab6d8adc6dce03b95495149e5de789e66bc5d863c5367e232806ac0c0"
 [[files]]
 file = "config/yosbr/config/movement-in-gui.json"
 hash = "c30073ca25028da383ce8745cd01c5a17992ead41b1c8f123e1663a84a2c507c"
+
+[[files]]
+file = "config/yosbr/config/notenoughanimations.json"
+hash = "a2d22cc7d19765757c890486eda58fcd7bbfa1501cda91a94297ec40c61db9bc"
 
 [[files]]
 file = "config/yosbr/config/paperdoll-client.toml"
@@ -477,7 +505,75 @@ file = "config/yosbr/config/wwoo/config.json5"
 hash = "b5df8846cf4ed8655c161507d4e7637779d8153ccff7db5a0f4c762a8139d60d"
 
 [[files]]
-file = "config/yosbr/config/xaerominimap-common.txt"
+file = "config/yosbr/config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/yosbr/config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/yosbr/config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/yosbr/config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/yosbr/config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/yosbr/config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/yosbr/config/xaero/minimap/default_radar_categories_client.json"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+
+[[files]]
+file = "config/yosbr/config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/yosbr/config/xaero/minimap/profiles/default.cfg"
+hash = "4ffba4ec814acc4fb64193990f2c797dff9d4d4c33813923f1a443fcc4da9e16"
+
+[[files]]
+file = "config/yosbr/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/yosbr/config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/yosbr/config/xaero/world-map/client.cfg"
+hash = "eab7d9cac57aa70f3f22881b3dc1a0677432f46095b3b8a4ab7b4bb0d1689378"
+
+[[files]]
+file = "config/yosbr/config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/yosbr/config/xaero/world-map/profiles/default.cfg"
+hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
+
+[[files]]
+file = "config/yosbr/config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/yosbr/config/xaerohud.txt"
+hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap-common.txt.backup0"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap-common.txt.backup1"
 hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
@@ -493,11 +589,19 @@ file = "config/yosbr/config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/yosbr/config/xaeroworldmap-common.txt"
+file = "config/yosbr/config/xaeroworldmap-common.txt.backup0"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap-common.txt.backup1"
 hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "4232da997ca3b984fd43529c45f8bf2f98139f8735cba1a4c71bf10bc8f2ae52"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt.backup0"
 hash = "4232da997ca3b984fd43529c45f8bf2f98139f8735cba1a4c71bf10bc8f2ae52"
 
 [[files]]
@@ -506,19 +610,19 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
-hash = "b53146815d033dbe0ff1034a63cd8bdfdd6d31ce56aa141883b95869e585415a"
+hash = "b5588b52189a4d68549b1af22c250a4e22fab0e28d7a4b72a8537e4bb4d01d3c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f0d0a24fc4344c26776d44ebdf505f1a7b30027af99e288604e7efb4eb445cba"
+hash = "e1d679fa1fddc42ffe53690f97b4a8cd5cdbb3abddad9a7f83f95445f2a7991b"
 
 [[files]]
 file = "modlist.txt"
-hash = "4352d6cdfd2eb6cc0ad8cfd9199c0c438c9f3335ee0c4781a6a2960a4797859e"
+hash = "a51e4d65561d07b24208e050485a24eb4f315f3dc274fd19672f36807f7073f2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2d3cbf3d77196a08a014270238740515c1b634bc11ad83a51140d7bcfc62d6b3"
+hash = "34d6e65112fdfdd6cf2439ed9e16994aa52455493febe0cd87f8893a2f90560c"
 metafile = true
 
 [[files]]
@@ -548,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "0a12f0ee21196d7b67ea4904c229b2972358bd8e2189cc481da163b848494c78"
+hash = "2f7cc18b96e537c1209ee5fd82eee4450168367142a3592618a4b715c32a8990"
 metafile = true
 
 [[files]]
@@ -568,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "2a2ef99d443196676bd8a65d9e49e72bbde19ea515ee44b4919241bc44182496"
+hash = "346a6a8f2346bf457774a7813125fc6cb13d43f387efcb0f02a40e0d87755d14"
 metafile = true
 
 [[files]]
@@ -583,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "0e073702f4562edac6258fd01f8b921628adf48fdd7e70209d93f4978753a0ce"
+hash = "1cf8276c0543b00ece86a30afa06142fd0fa6950b9df7ba7fd388657b1ca756f"
 metafile = true
 
 [[files]]
@@ -608,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "15d0080ca338fce8147e004532e838f4233cf49b70331ce345ed5551c2257657"
+hash = "c6328bd95dcb0a8970569c6b2287220bff027f7caeccc98d19d8555ec1a9145a"
 metafile = true
 
 [[files]]
@@ -618,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "9e4b7af4e25273baee0d9f2bc9f337d3b71ee52bbdd3d470cdcbb6d7876b1a1e"
+hash = "a22ba7c148744fe8c1ed7580e95e9a285bd71b2b1c2f66ab9d89c5d43e1498f1"
 metafile = true
 
 [[files]]
@@ -633,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "cf4939ed93cf28a5d488a9b8356dec134ef32ec257c84fb7992e2c64f26a8c7a"
+hash = "abfb027e24b1af2307e9d93830c5cbe5322dc4b691b9df882426595ed62737d3"
 metafile = true
 
 [[files]]
@@ -658,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1adccdf12bf5475db4651b96574f9147fa5253e7c0116fffe02ab43b35261aff"
+hash = "0cadf1632a675a92e0bbfb060e807c07595bda05526da8a361d782878b510e6b"
 metafile = true
 
 [[files]]
@@ -673,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b7f3af0e77e5a5a32d5c8a4884e6e3792e418e10119bdfa9f7416da3e7000c2e"
+hash = "28a6274b99c351c6331adc743d91a89d29f3578ba4e0a50f4ba71060061ae7f1"
 metafile = true
 
 [[files]]
@@ -683,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "05c4bab9b066b825a39ea67731ff5af15dfae112e1a7b17542f518bf72dd27a7"
+hash = "bc93381428d6407f5c6fa7e49ea01818e85e48083bdcdd3a5d87b2176977e9fd"
 metafile = true
 
 [[files]]
@@ -698,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -723,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
 metafile = true
 
 [[files]]
@@ -738,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "fcc31dc8879513f1666d2232641d5ff8e9451d8062013786379efaee474f8881"
+hash = "55f0548e6fde1cb553133162da47ecde530b6cce54e293de35e03b7fd65acff5"
 metafile = true
 
 [[files]]
@@ -753,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "77364cc74f5c0819ef77e5e2fd11bd304ad98dc193348d3d875e23fae62f8f74"
+hash = "db46aeba51086f72e755106ca1a2196717ddb3844dfd7b781e7a93c57a9d5b32"
 metafile = true
 
 [[files]]
@@ -858,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "d3d3ebf53454b237e6ac91a6e3dc5fd34bfeefcf0714a11bfadd3e1488161772"
+hash = "37f0bc20da6968667e0f52d6689ed5f32c1d6256765fba4083700aeb42046e13"
 metafile = true
 
 [[files]]
@@ -888,7 +992,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
@@ -923,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "614ab32c2bfdecd7ea3ebd0f65afb06e2dd1c1e1009469ec3ad541a5068ec147"
+hash = "4747d4b3c7a30553c6db744749ed58e9db628369a2563ed04923338080ccd3b0"
 metafile = true
 
 [[files]]
@@ -933,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/sort-it-out.pw.toml"
-hash = "cb59f007a4f09b171fc41683791345972ceefe312bbf0aef4632eccdc339df2f"
+hash = "a328ee23d2eb3465231460004cbf71252f8e648e819723761c457cd42d431d99"
 metafile = true
 
 [[files]]
@@ -993,12 +1097,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6b3f90c5a1f2c0e726010893e2dc6751a9614c30323b8b2cfd07b2f5a7728a3d"
+hash = "361986055445d4bc51c04fef877501e7791ee361d3cccedced7344b17d70f8c4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a7ee69b752489e4dbcbe696e85bfb35670f8d6e785b63356d0645acffcb1786e"
+hash = "428c9b21e6c1cccaa18ab2afcba72b0bef30aa81cb392d8624699fe5934600b6"
 metafile = true
 
 [[files]]
@@ -1013,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "22052f42b1b73226d9508ef42af962471c79c7daa281aac66a82a90c7d7bb9e5"
+hash = "9190014654c3a01d217640032fccd571bf7d2e63b3f83d5b555da5e5e83f63ac"
 metafile = true
 
 [[files]]
@@ -1022,7 +1126,7 @@ hash = "37ffa784501df5414424a0260c3c204979b847a1134e2c23f2300cfa41d042b9"
 
 [[files]]
 file = "resourcepacks/better-animations.pw.toml"
-hash = "789dfcb1b378a4185b5162661d7c13e6280d784e7e40700936d71c6b0037aecf"
+hash = "d1538a5b5c44fc30af62d60ade7763c67f72faa83d2f8295f3272f053940072e"
 metafile = true
 
 [[files]]
@@ -1032,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
@@ -1072,20 +1176,20 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "cb199cb7b4a4b65aa343025657a571ba0bde7bfe102a2820532b6fa9ed328bb7"
+hash = "a09fab8017dd5344ac7e2daf1096ea9bc8843df7aa5d846d826d3cea8628ff01"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "315d537a57cebee64acfa9dc327255c0eee86d6b08611eec6d7c9326ffb03ad1"
+hash = "5497d3ab3f39171289a05ce996b3a757e960c2200a3d9435124762f056a74b4e"
 metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "4b9fa848963dbf05b3e295ae91087adcd50e1fef6a92ad3af9b526c95d23cbb3"
+hash = "f940659da755431e3fa1002682b40d7e5d7f88396db801ee3d538eb5a2b719f4"
 metafile = true
