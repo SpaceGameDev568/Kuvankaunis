@@ -11,6 +11,7 @@ Better Animations
 Better Statistics Screen
 BetterF3
 Biomes O' Plenty
+BisectHosting Server Integration Menu
 Blur+
 Camera Overhaul
 Chat Animation [Smooth Chat]
@@ -86,7 +87,6 @@ Oh The Trees You'll Grow
 Paper Doll
 Puzzles Lib
 Reese's Sodium Options
-Remove Terralith Intro Message
 ScalableLux
 Serene Seasons
 Smooth Gui
@@ -97,7 +97,6 @@ Sort It Out!
 Sound Physics Remastered
 Spawn Animations
 Spawn Animations Compats
-Spellbound Weapons
 TaskbarIconChanger
 TCDCommons API
 Technopig
