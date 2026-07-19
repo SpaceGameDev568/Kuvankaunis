@@ -1,13 +1,13 @@
 name = "Spawn Animations Compats"
-filename = "spawn-animations-compats-13.0.jar"
+filename = "spawn-animations-compats-16.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ofDka6PS/versions/dZljirNp/spawn-animations-compats-13.0.jar"
+url = "https://cdn.modrinth.com/data/ofDka6PS/versions/vHl89Bi7/spawn-animations-compats-16.0.jar"
 hash-format = "sha512"
-hash = "fa7ed100082d097256cd84447d64f105b7ac978c3fe4465f2bd91c60cf3b42e92c0e4bf433de43c6daa90d7afcfb14fb29c6f8f279349a186aadf09449fc0cfe"
+hash = "4365c0c644db5898668cf552bd40ce88bcf3ddd6051137b917895fbdfaca4eefb445fc851ea2b0f4257e4def0efb77113c6c35f2ed3021223555963ac60e9aff"
 
 [update]
 [update.modrinth]
 mod-id = "ofDka6PS"
-version = "dZljirNp"
+version = "vHl89Bi7"

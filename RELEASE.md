@@ -11,3 +11,12 @@
 5. Generate pack again with `packwiz mr export` to test and upload to Modrinth.
 
 6. Run `packwiz list > modlist.txt` and copy the output to the Modrinth description. Select all the text and make it a bulleted list.
+
+
+## For version upgrades:
+
+`options.txt` needs new resource pack settings
+
+`iris.properties` needs the latest shader pack version name
+
+Crash assistant needs new modlist

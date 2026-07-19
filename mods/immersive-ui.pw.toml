@@ -1,13 +1,13 @@
 name = "Immersive UI"
-filename = "ImmersiveUI-FABRIC-0.3.5+1.21.9.jar"
+filename = "ImmersiveUI-FABRIC-0.3.6+1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9wv7LuMc/versions/SoNaBiWT/ImmersiveUI-FABRIC-0.3.5%2B1.21.9.jar"
+url = "https://cdn.modrinth.com/data/9wv7LuMc/versions/GkBmQQjo/ImmersiveUI-FABRIC-0.3.6%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "585ea4c6d7edc5c1479df9e5d78b99660ca94f4606296f30d043a62889297dc74582bd591ee900512b56cb759250bbf95864933b74c19c089340232ac2597b10"
+hash = "d7623c8ea0e49fb580c2e57f66525efc19e9e1cbca12526a6cb149d50def7539ec50c6b1b1e0c68212bbb7b4f370c25bf618091f2948b0eb13ddc02aa0d004b2"
 
 [update]
 [update.modrinth]
 mod-id = "9wv7LuMc"
-version = "SoNaBiWT"
+version = "GkBmQQjo"
