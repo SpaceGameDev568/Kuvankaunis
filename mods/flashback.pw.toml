@@ -1,13 +1,13 @@
 name = "Flashback"
-filename = "Flashback-0.39.5-for-MC1.21.11.jar"
+filename = "Flashback-0.40.0-for-MC26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4das1Fjq/versions/AGkqd25Y/Flashback-0.39.5-for-MC1.21.11.jar"
+url = "https://cdn.modrinth.com/data/4das1Fjq/versions/XRtfepgi/Flashback-0.40.0-for-MC26.1.jar"
 hash-format = "sha512"
-hash = "9aea077255292c1ff57e1170143ca1c0224371af397e43bf3f7ee2d021b4b2122cd0cda25337ed9b27a241a93f116182611f5c5d21453169c546e906b3d6c0bd"
+hash = "2a1a2c177e4b7705c2dfc1f09058a187af13443d9e1a5dc46192dd13d83b2868d1e09ffe108195ac6b4dd29efe3429d9622a907ef602e3a9ba80ccc4ae40b79b"
 
 [update]
 [update.modrinth]
 mod-id = "4das1Fjq"
-version = "AGkqd25Y"
+version = "XRtfepgi"

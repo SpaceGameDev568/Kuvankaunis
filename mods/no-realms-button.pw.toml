@@ -1,13 +1,13 @@
 name = "No Realms Button"
-filename = "norealmsbutton-3.0.4+1.21-fabric.jar"
+filename = "norealmsbutton-3.0.4+26.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AMMUyCdF/versions/H6bHeMyo/norealmsbutton-3.0.4%2B1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/AMMUyCdF/versions/GHcxpsrK/norealmsbutton-3.0.4%2B26.1-fabric.jar"
 hash-format = "sha512"
-hash = "22fe848a5a0e638ca924b80a8e145b139704e09f5b8d3209f6c984b45bd6911622414901319a8d84e9039a1c3f3bc172ccbf812b3aa153a5b36645452fdd045c"
+hash = "6842ab3d8521b85e731e9c4b1558f6b51c230ff19d1fca618378ea3b6666ac33b0113b027ca765f71e62c1b1eb21d3acf2813992ccdf3ea2a01646e2c23a0fbe"
 
 [update]
 [update.modrinth]
 mod-id = "AMMUyCdF"
-version = "H6bHeMyo"
+version = "GHcxpsrK"

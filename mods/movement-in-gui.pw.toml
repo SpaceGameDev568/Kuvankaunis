@@ -1,13 +1,13 @@
 name = "Movement In GUI"
-filename = "movement-in-gui-v1.1.1-mc1.21.11+build.16.jar"
+filename = "movement-in-gui-v1.1.1-mc26.1.2+build.16.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tTLRvvmr/versions/c7QMabAi/movement-in-gui-v1.1.1-mc1.21.11%2Bbuild.16.jar"
+url = "https://cdn.modrinth.com/data/tTLRvvmr/versions/JdoNaQDJ/movement-in-gui-v1.1.1-mc26.1.2%2Bbuild.16.jar"
 hash-format = "sha512"
-hash = "0a4e10c42f2ef07f2ddb870b111ac69eac265f51a6a06d6b2b0a081457a80301e53a71d9914340b1ffb7c85dd3be21893d6973bbc8cebd7f531cf3d741e83820"
+hash = "167666abfbea235261b3484c40f4b425aab1ccc02399fec80986abb0f771061152aa15e57b7a9f8eae758c55969d9f349265fec7264b9d5dc751e1feead5cf91"
 
 [update]
 [update.modrinth]
 mod-id = "tTLRvvmr"
-version = "c7QMabAi"
+version = "JdoNaQDJ"

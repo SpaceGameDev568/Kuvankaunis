@@ -118,7 +118,7 @@ _version = 4
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 8
+		numberOfThreads = 4
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -205,7 +205,7 @@ _version = 4
 			#
 			# If enabled, a chat message will be displayed when DH is using 
 			# a deprecated renderer.
-			showDeprecatedRendererWarningOnStartup = true
+			showDeprecatedRendererWarningOnStartup = false
 			#
 			# If enabled, a chat message will be displayed if vanilla MC's 
 			# render distance is higher than the recommended amount.

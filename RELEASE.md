@@ -20,3 +20,9 @@
 `iris.properties` needs the latest shader pack version name
 
 Crash assistant needs new modlist
+
+## Updating the Resource Pack:
+
+When compressing the pack, don't select the top-level folder.
+Instead, select the `assets`, `pack.mcmeta`, and `pack.png` folders manually and compress them all at once.
+Rename the archive and move it up a level, then it should work.

@@ -1,13 +1,13 @@
 name = "Sort It Out!"
-filename = "sort_it_out-fabric-1.4.2+1.21.11.jar"
+filename = "sort_it_out-fabric-1.4.2+26.1.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jcOSOvm1/versions/zLGTNYze/sort_it_out-fabric-1.4.2%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/jcOSOvm1/versions/FQpn1wVR/sort_it_out-fabric-1.4.2%2B26.1.x.jar"
 hash-format = "sha512"
-hash = "00118eb425c45b4aefb49837c76826aad9999f1dccb4225e7280d815d3879b169a82d4402f038daa478e9e6108829eaafb8080323266ad3af2d8e9e224565157"
+hash = "f1778a46475b6d7616cc67aabcebf305e426dc3e6eac9b207c860ed1428a745c79764c9bf997bf746fd3a598237447fcdb5865614c8e478518f9cc1808c1e3d2"
 
 [update]
 [update.modrinth]
 mod-id = "jcOSOvm1"
-version = "zLGTNYze"
+version = "FQpn1wVR"

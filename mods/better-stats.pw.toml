@@ -1,13 +1,13 @@
 name = "Better Statistics Screen"
-filename = "betterstats-5.1.0+fabric-1.21.11.jar"
+filename = "betterstats-5.3.0+fn-26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/99mBkJp1/betterstats-5.1.0%2Bfabric-1.21.11.jar"
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/u7M3BwoL/betterstats-5.3.0%2Bfn-26.1.jar"
 hash-format = "sha512"
-hash = "54bcb9336ba8088ad4611ffc37d29f7cc4ed3c89465d6cedfe065ea641f5c252aa1ac4b2306a9c033ee6db9f29a916ed6101cb85e1867de09073894b9bcafe34"
+hash = "b9d4d5afd66e97a08db9375d0c9c9e2d589ef4751346e4e1c697f5776a058456f86a35b71463241c49c1739188b201e4acb17ddab5b5d84294ff547ce12c8d8e"
 
 [update]
 [update.modrinth]
 mod-id = "n6PXGAoM"
-version = "99mBkJp1"
+version = "u7M3BwoL"
