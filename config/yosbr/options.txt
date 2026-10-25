@@ -3,7 +3,7 @@ ao:true
 biomeBlendRadius:2
 chunkSectionFadeInTime:0.0
 cutoutLeaves:true
-enableVsync:true
+enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -21,7 +21,7 @@ gamma:0.5
 guiScale:0
 maxAnisotropyBit:2
 textureFiltering:0
-maxFps:140
+maxFps:260
 improvedTransparency:false
 inactivityFpsLimit:"afk"
 mipmapLevels:4

@@ -1,13 +1,13 @@
 name = "Female Gender Mod"
-filename = "Female-Gender-Mod-5.0.0-Beta.4+26.1.jar"
+filename = "Female-Gender-Mod-5.0.0+mc26.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/VI0GA2EF/Female-Gender-Mod-5.0.0-Beta.4%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/9HvDgPhr/Female-Gender-Mod-5.0.0%2Bmc26.3-fabric.jar"
 hash-format = "sha512"
-hash = "a1f06a226b8135a8c9fbe98d1a550955e19ead4ad9121204a23f463d4785b5878ac863fbcc41b62e75795b2c5527a9eac520a38144561b21ac52fc98ae5ed65d"
+hash = "171eee5de9a90cc47f01ce8c4794afcbdaa80340f34291606adc6671e1e8522893e334d7bef33d788347e0670baac81c7b850cf6674bdec88b094a9242b79987"
 
 [update]
 [update.modrinth]
 mod-id = "bcOsQHnC"
-version = "VI0GA2EF"
+version = "9HvDgPhr"

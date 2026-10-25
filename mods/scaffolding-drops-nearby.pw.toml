@@ -1,0 +1,13 @@
+name = "Scaffolding Drops Nearby"
+filename = "scaffoldingdropsnearby-26.3.0-3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uO522mgw/versions/HIDO8lTR/scaffoldingdropsnearby-26.3.0-3.6.jar"
+hash-format = "sha512"
+hash = "81e7b1ac9e88edc2af9bf4911fbc03fca03ad29f1bfaa41bbe16673f9b20d2746ebde797dccfe6b53aa803b016ad72c4519989dd7f8e846d7cb8437dd148f166"
+
+[update]
+[update.modrinth]
+mod-id = "uO522mgw"
+version = "HIDO8lTR"
