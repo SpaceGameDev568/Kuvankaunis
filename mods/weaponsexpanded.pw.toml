@@ -1,13 +1,13 @@
 name = "Weapons Expanded"
-filename = "weaponsexpanded_26.3_2.1.2_fabric.jar"
+filename = "weaponsexpanded_26.3_2.1.2.1_fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8pBLL0kb/versions/s0VUQsFx/weaponsexpanded_26.3_2.1.2_fabric.jar"
+url = "https://cdn.modrinth.com/data/8pBLL0kb/versions/DHzAogC2/weaponsexpanded_26.3_2.1.2.1_fabric.jar"
 hash-format = "sha512"
-hash = "5124fd9b9273dcc867cf2143dcd68ae5b64fbf8faec392c73f0d8a4b8e135fb52d6ca7ad971abccd95b31cfec30b89704cdf31e9d3a356ce4896509fc2539bb5"
+hash = "82f6650671f78071e7db849d4a06e57bb9e5d252d6afd2f2865ca945c0e4b31d3948adc54bd64a1c55cf91f60172ef1db31ccb74cdade6223f74900020735a38"
 
 [update]
 [update.modrinth]
 mod-id = "8pBLL0kb"
-version = "s0VUQsFx"
+version = "DHzAogC2"
