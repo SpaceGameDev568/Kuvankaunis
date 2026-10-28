@@ -98,7 +98,7 @@ hash = "44e64c860fd43c3323f454df27c29c064a5484dd5f49a875ee52d65d882d80c5"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "b6a82987f0caff83b555f690f84a492e1b57ff6316545c99bdf80edb54411e2c"
+hash = "cff2a79b93fd22cb732dabe30ae73407c836c709f2ef8af20d686f70f8715fbd"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -346,7 +346,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "ea00b281e16321819ae1b8f5e465dfeba7446cb84530e8b0e28d91894f50d551"
+hash = "339b541f89e77ec032a761b8009d1d4c732beb96d20733953af20f496c4adead"
 
 [[files]]
 file = "config/yosbr/config/jade/hide-blocks.json"
@@ -650,7 +650,7 @@ hash = "b5588b52189a4d68549b1af22c250a4e22fab0e28d7a4b72a8537e4bb4d01d3c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fe374ef2a3b1b634e12d91ed4a0942c76272764f4124a295c9e265fbc8faef56"
+hash = "0ab055138d68ac2f93e832eed15a138ebc64fa61943caadd2d7e1195f0ffec2c"
 
 [[files]]
 file = "modlist.txt"
