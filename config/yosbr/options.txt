@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Better_Animations.zip","file/EvenBetterEnchants_v3_1.21.5+.zip","file/Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Emissive Ores v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Stacking Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/FreshAnimations_v1.10.4.zip","lambdabettergrass:default","file/Unique Dark - Lite - 1.20.2-26.x.zip","file/Kuvankaunis Pack Resources.zip"]
+resourcePacks:["vanilla","file/Better_Animations.zip","file/EvenBetterEnchants_v3_1.21.5+.zip","file/Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Emissive Ores v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Fusion Stacking Items v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Fusion Connected Blocks v1.1.0 for Minecraft 1.20-26.2.zip","lambdabettergrass:default","file/Unique Dark - Lite - 1.20.2-26.x.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/FreshAnimations_v1.11.1_1.20+.zip","file/Kuvankaunis Pack Resources.zip"]
 incompatibleResourcePacks:["lambdabettergrass:default","file/Kuvankaunis Pack Resources.zip"]
 lastServer:
 lang:en_us

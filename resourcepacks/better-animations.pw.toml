@@ -3,11 +3,11 @@ filename = "Better_Animations.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TghJ0CEU/versions/au87omo3/Better_Animations.zip"
+url = "https://cdn.modrinth.com/data/TghJ0CEU/versions/8Ygkvqa5/Better_Animations.zip"
 hash-format = "sha512"
-hash = "0a3af5fcd36dc1f9eaf81a33aa2ca37bd2d85ebe849d86ec17df56762136c4d203c29eec5e4177c08dd774a536e8775424c6678b69553db8e007fa117ba4ad61"
+hash = "ddec9b160c3c0257d297f41c81e9d88ce5e96c06ad74b015b9d37bd5e794c4c2fbc48a8c3f3471e566f72210e4fabbf622ae71cab026077dfb49d20a7a3bf752"
 
 [update]
 [update.modrinth]
 mod-id = "TghJ0CEU"
-version = "au87omo3"
+version = "8Ygkvqa5"
