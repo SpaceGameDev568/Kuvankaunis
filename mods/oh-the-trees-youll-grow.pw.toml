@@ -1,13 +1,13 @@
 name = "Oh The Trees You'll Grow"
-filename = "Oh-The-Trees-Youll-Grow-fabric-1.21.11-9.1.2.jar"
+filename = "Oh-The-Trees-Youll-Grow-fabric-1.21.11-9.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/kxVZMwso/Oh-The-Trees-Youll-Grow-fabric-1.21.11-9.1.2.jar"
+url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/HCBmuNcP/Oh-The-Trees-Youll-Grow-fabric-1.21.11-9.1.3.jar"
 hash-format = "sha512"
-hash = "7122db85072f5bbd5811e9043288bfda594a9ef974085648e729684b109118d6a79205757ba5276f020693a2508aed9db2bcff025dbea37a19f9e0f69fca04a7"
+hash = "2a386e96e60b389d184ba10fd937d797c0e1e6d6e86850c5f140eeaac7a8f9c08d9c759e22eab233c9d53f3fb35c76e8ce6fa50a5177c0ba488a1c7c76d0c6a1"
 
 [update]
 [update.modrinth]
 mod-id = "g8NOG5OR"
-version = "kxVZMwso"
+version = "HCBmuNcP"

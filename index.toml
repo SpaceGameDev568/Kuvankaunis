@@ -823,12 +823,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fb983e5ea25f59adc0cfb77929585c165fbcf07578d7727448b329824f166fde"
+hash = "1d1a0b26a3e97536fe2de0ddeac4caa734fb5c0fe9d92341cc57d0d6d451f665"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "bd7f9aadd2352aadb444071e7dc5817e90374020e4a138abf9886578b65c6e95"
+hash = "4b0ba38e8e97d57f613f2ca587ee76269d32d09436d189c55c09b739538e4b4c"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ab0cc7485ef34fb59d1880d7d7fadb8db29a268f76bf56080ea69bfa616d6e18"
+hash = "956d704def3ad330245d1f25a62b06a1200dbd3559eae43b06e8b70ae51a2b17"
 metafile = true
 
 [[files]]
@@ -1013,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "fe259e3bf13fbda71ea2086594ecfc520a326cc0178ccac4a4fdf5712bfc095f"
+hash = "67126f3d64965cf31deff49782e325db57bcb88ad8513e2a60766a775482609b"
 metafile = true
 
 [[files]]
@@ -1023,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "53cc94d15c0ea88832484aa3cd66f50d48521c72620fa4e9f6d4b9f5a94751f0"
+hash = "a03ce206a4e16e1e6613dd53d6a69efa603df5c8aaae96755c3f99c6ddec0ada"
 metafile = true
 
 [[files]]
@@ -1167,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "174dfc4e2332878c681272c43ed881f963ec34f9560a8f7e858eb1927c99fa51"
+hash = "742f4b07528ec106652d911587cc261a8f1a9d9c1fb1fa378058185a5f2f9ca9"
 metafile = true
 
 [[files]]
@@ -1207,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "ef29ab42be9a4f9090fe0589045d479dd02c05d54f5540d95166f9dc9dbba3df"
+hash = "cd696834b774633b39b3996617afef22f1a71d6d07e261f487e69b0549d04da4"
 metafile = true
 
 [[files]]
@@ -1222,5 +1222,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "6dad08af50b670e1c317c952104d504f3357eed21009623c4861de8b9ed8b36a"
+hash = "085114584baeb503e8e92c8f1c440a3aa4414a85093043bbde627d268766d482"
 metafile = true
