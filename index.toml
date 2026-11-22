@@ -13,42 +13,6 @@ file = ".idea/vcs.xml"
 hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
-file = "KuvankaunisAppIcon.png"
-hash = "e28f20f44961ca6f6322f51dfbd8303953fad15e7baf25e90eba6f2fea01da20"
-
-[[files]]
-file = "KuvankaunisBanner.png"
-hash = "a71cde95ce37c7df31433cff9f6d38889c70155cd34cd28de97e945f077e9f98"
-
-[[files]]
-file = "KuvankaunisBanner.svg"
-hash = "b9a2da538e6625941349f878c8f2963a04153528c31835f51d826396bb2db0db"
-
-[[files]]
-file = "KuvankaunisCover.jpg"
-hash = "c8331c82a14c5e4af4336699a3e074ff739118992f29bd0acb3d3eb553a19b73"
-
-[[files]]
-file = "KuvankaunisLogo.svg"
-hash = "876be80d90dd5035a53a6944aeaccd86c51cfc6b474ab6ee57393ab643596b78"
-
-[[files]]
-file = "KuvankaunisLogo2.png"
-hash = "ad8517c2358f275a042628126a901057e76b2a6401919f91ecc8a90d5031778c"
-
-[[files]]
-file = "KuvankaunisSteamBackground.jpg"
-hash = "5ec25f5abe151affba0b149eb53e01091ef7560a73761196346f99c53d9c333b"
-
-[[files]]
-file = "KuvankaunisSteamBigPictureBanner.jpg"
-hash = "f43486b023ffbac693e8f345a3697ad13142982e770c93ef9b8805bebdbac0b3"
-
-[[files]]
-file = "LoadingScreen.png"
-hash = "e05d92ed011c65d3e67e56e9d38efa768fd9f768a5e1456705f264acbabc0120"
-
-[[files]]
 file = "config/TaskbarIconChanger/icon.png"
 hash = "e28f20f44961ca6f6322f51dfbd8303953fad15e7baf25e90eba6f2fea01da20"
 
@@ -653,10 +617,6 @@ file = "config/yosbr/options.txt"
 hash = "0ab055138d68ac2f93e832eed15a138ebc64fa61943caadd2d7e1195f0ffec2c"
 
 [[files]]
-file = "modlist.txt"
-hash = "d0fb0d6a09d6283b80919ac9e6ec6e1027cf8b53b4c0bf8a72f35efc3707ce75"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "93f2371b90e3c65592bc34fd61b919b78a8c838f97ee7c4c83df4e7d7618801e"
 metafile = true
@@ -823,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1d1a0b26a3e97536fe2de0ddeac4caa734fb5c0fe9d92341cc57d0d6d451f665"
+hash = "9bd274068b4702ef9cb866bbfd7868f750ca0893853c3e7ac33234d46f6f2ce6"
 metafile = true
 
 [[files]]
@@ -988,7 +948,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+hash = "3f7fd91455f1721b46dc8efd2ba392f215b685eed37b6c50b8fdbb80a9be79e8"
 metafile = true
 
 [[files]]
@@ -1043,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "6223e0994b9141d83426fc3e3a84b71d1db39e1cfd142e2789a9aaeb21819ebc"
+hash = "c8536cf6719076ed5ff9cf2c0958a5f14c4161578d44ed15f0a9e9741bd1d46d"
 metafile = true
 
 [[files]]
@@ -1153,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Kuvankaunis Pack Resources.zip"
-hash = "37ffa784501df5414424a0260c3c204979b847a1134e2c23f2300cfa41d042b9"
+hash = "7d59ea59624e81fbab0892873abd7ca545630089f22430b53c65b50fb6a699ff"
 
 [[files]]
 file = "resourcepacks/better-animations.pw.toml"
@@ -1212,12 +1172,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+hash = "5c17de8161b06a10dbd8e59645e7d7edfc583054009b5a787086d5f4fb1a77f1"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "1d892c58b3e1eede0f0380955b0e53bd6f55d5cbcefa4a6c15eae8d7924c0e26"
+hash = "0e60b67ad2358ba08dc63511c6d9fb8555103855256673c47209112b1cbf12a2"
 metafile = true
 
 [[files]]

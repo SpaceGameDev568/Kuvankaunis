@@ -57,7 +57,7 @@ toggleUse:false
 sprintWindow:7
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-hideSplashTexts:false
+hideSplashTexts:true
 mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
