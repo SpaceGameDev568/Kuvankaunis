@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="KuvankaunisLogo.svg"
    inkscape:export-filename="KuvankaunisLogo2.jpg"
    inkscape:export-xdpi="96"
@@ -27,11 +27,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.36756309"
-     inkscape:cx="84.339263"
-     inkscape:cy="496.5134"
+     inkscape:zoom="0.18378155"
+     inkscape:cx="-764.49461"
+     inkscape:cy="-916.8494"
      inkscape:window-width="2560"
-     inkscape:window-height="1362"
+     inkscape:window-height="1352"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -122,16 +122,16 @@
          style="font-size:16px;font-family:'Akira Expanded';-inkscape-font-specification:'Akira Expanded, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#1b57c4;stroke-width:5;stroke-linecap:round"
          transform="matrix(6.4360551,0,0,6.4360551,-3193.0647,-2443.7792)"><tspan
            x="586.75"
-           y="457.27431"
-           id="tspan2"><tspan
+           y="457.27713"
+           id="tspan5"><tspan
              style="font-family:Inter;-inkscape-font-specification:'Inter, @wght=700';font-variation-settings:'wght' 700;fill:#ffffff"
-             id="tspan1">SpaceGameDev
+             id="tspan4">SpaceGameDev
 </tspan></tspan><tspan
            x="586.75"
-           y="477.6393"
-           id="tspan6"><tspan
+           y="477.64496"
+           id="tspan12"><tspan
              style="font-family:Inter;-inkscape-font-specification:'Inter, @wght=700';font-variation-settings:'wght' 700"
-             id="tspan3">Modding</tspan></tspan></text><g
+             id="tspan11">Modding</tspan></tspan></text><g
          id="g3"
          transform="matrix(1.8812716,0,0,1.8812716,523.60193,624.3532)"><g
            id="g4"
@@ -170,18 +170,18 @@
        y="0"><tspan
          x="329.09686"
          y="412.62676"
-         id="tspan8"><tspan
+         id="tspan14"><tspan
            style="font-size:85.3333px;-inkscape-font-specification:'Akira Expanded, Normal';text-align:center;text-anchor:middle"
-           id="tspan7">KUVANKAUNIS</tspan></tspan></text><text
+           id="tspan13">KUVANKAUNIS</tspan></tspan></text><text
        xml:space="preserve"
        id="text2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:341.333px;font-family:'Akira Expanded';-inkscape-font-specification:'Akira Expanded, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:2.594;stroke-linecap:round;stroke-linejoin:round"
        transform="translate(-517.2168,-110.73244)"><tspan
          x="700.21664"
          y="847.06588"
-         id="tspan10"><tspan
+         id="tspan16"><tspan
            style="font-size:682.667px;-inkscape-font-specification:'Akira Expanded, Normal'"
-           id="tspan9">K</tspan></tspan></text></g><style
+           id="tspan15">K</tspan></tspan></text></g><style
      type="text/css"
      id="style1">
 	.st0{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}

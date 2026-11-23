@@ -1,0 +1,178 @@
+![Kuvankaunis](https://cdn.modrinth.com/data/cached_images/874ba5ec0009af2397dabca4ca765ddd2b07c269.webp)
+
+Kuvankaunis is a modern modpack focused on visuals and exploration. It's optimized, heavily customizable, and offers a considerable upgrade to the vanilla Minecraft experience.
+
+# Features
+
+## Graphics
+
+The modpack employs Solas Shader by default to provide stunning graphical fidelity, though still maintaining the Minecraft asthetic. It also makes use of Distant Horizons to allow you to appreciate the vastness of your world, while the framerate remains smooth.
+
+![The vastness of a world in Kuvankaunis](https://cdn.modrinth.com/data/cached_images/19ecfbae15faf6733975b7bf59d156e809384647.jpeg)
+
+## World
+
+The world in Kuvankaunis is vibrant and refreshing, with all three dimesions getting a new coat of paint. Terrain generation is much more complex and interesting, and there are many new materials and wood types to be harvested and used in your builds. It also adds seasons, and each one brings it's own advantages and challenges.
+
+![A Forest in Kuvankaunis](https://cdn.modrinth.com/data/cached_images/247c02bc13dcbe2a39016a569931653df32b4442.jpeg)
+
+![The Nether in Kuvankaunis](https://cdn.modrinth.com/data/cached_images/e4b572bdc2d0c3e4e5643bf6749ca86c03cbcdd6.jpeg)
+
+## Quality of Life
+
+There are many Quality of Life features included in Kuvankaunis, such as teleportation waystones, full controller support, container sorting, and character customization, just to name a few.
+
+## Performance
+
+Out of the box, the modpack should perform well on an NVIDIA RTX 4060 or AMD Radeon 7600 XT or better. If you have a less powerful system, you can turn the Solas Shader preset to a lower setting in the Iris menu.
+
+You may also want to allocate 8 GB or more of RAM for the best experience.
+
+For reference, I use an Intel i7-11700F CPU, and an AMD Radeon 9060 XT 16GB GPU and I get between 80-100 Avg. FPS in most situations with the default settings on Fedora Linux 43.
+
+![Performance with Kuvankaunis](https://cdn.modrinth.com/data/cached_images/879580d67148865517f3cf4dd0d87c52ff8fcbce.jpeg)
+
+## Controller/Steam Deck Support
+
+Controller support is included out of the box, including for Steam Deck and other handhelds.
+
+## Multiplayer
+
+Kuvankaunis has full multiplayer support, provided you install also it on the server and all clients.
+
+### Need a server to play on?
+Use code "**SPACEGAMEDEV**" at checkout for 25% off your first month with BisectHosting!
+
+https://bisecthosting.com/spacegamedev?r=Kuvankaunis
+
+
+[![BisectHosting](https://cdn.modrinth.com/data/cached_images/ebf5e5889428f110a5c558668b794cd6d743491b.webp)
+](https://bisecthosting.com/spacegamedev?r=Kuvankaunis)
+
+## Get help
+
+If you encounter an issue or have a suggestion, you can make a post on our Discord community.
+https://discord.gg/tgNjem4bjU
+
+<details>
+<summary>Modlist</summary>
+
+- 3D Skin Layers
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Almanac
+- AmbientSounds
+- AppleSkin
+- Architectury API
+- BadOptimizations
+- Balm
+- Better Animations
+- Better Statistics Screen
+- BetterF3
+- Biomes O' Plenty
+- BisectHosting Server Integration Menu
+- Blur+
+- Camera Overhaul
+- Chat Animation [Smooth Chat]
+- Chat Heads
+- ChoiceTheorem's Overhauled Village
+- CICADA
+- Cloth Config API
+- Collective
+- Complementary Shaders - Reimagined
+- Concurrent Chunk Management Engine (Fabric)
+- Controlify (Controller support)
+- CorgiLib
+- Crash Assistant
+- CreativeCore
+- Cristel Lib
+- Cubes Without Borders
+- Debugify
+- Distant Horizons
+- Do a Barrel Roll
+- Dynamic Crosshair
+- Dynamic Crosshair Compat
+- Dynamic FPS
+- Entity Culling
+- Even Better Enchants
+- Explosive Enhancement
+- Fabric API
+- Fabric Language Kotlin
+- Fadeless
+- Fast IP Ping
+- FastQuit
+- Female Gender Mod
+- FerriteCore
+- Flashback
+- Forge Config API Port
+- Fresh Animations
+- Fusion (Connected Textures)
+- Fusion 3D Items
+- Fusion Block Transitions
+- Fusion Connected Blocks
+- Fusion Connected Glass
+- Fusion Emissive Ores
+- Fusion Stacking Items
+- Geckolib
+- GlitchCore
+- ImmediatelyFast
+- Immersive Interfaces
+- Immersive UI
+- Incendium
+- Iris Shaders
+- Jade 🔍
+- JamLib
+- Konkrete
+- LambdaBetterGrass
+- Let Me Despawn
+- Lithium
+- Lithostitched
+- Make Bubbles Pop
+- MakeUp - Ultra Fast
+- MES - Moog's End Structures
+- MNS - Moog's Nether Structures
+- Mod Loading Screen
+- Mod Menu
+- More Culling
+- Movement In GUI
+- No Chat Reports
+- No Realms Button
+- No Telemetry
+- Not Enough Animations
+- Nullscape
+- OctoLib
+- Oh The Biomes We've Gone
+- Oh The Trees You'll Grow
+- Paper Doll
+- Puzzles Lib
+- Reese's Sodium Options
+- ScalableLux
+- Serene Seasons
+- Smooth Gui
+- Smooth Scrolling
+- Sodium
+- Solas Shader
+- Sort It Out!
+- Sound Physics Remastered
+- Spawn Animations
+- Spawn Animations Compats
+- TaskbarIconChanger
+- TCDCommons API
+- Technopig
+- TerraBlender
+- Terralith
+- Text Placeholder API
+- Towns and Towers
+- Unique Dark
+- Waystones
+- Xaero's Minimap
+- Xaero's World Map
+- YetAnotherConfigLib (YACL)
+- Your Options Shall Be Respected (YOSBR)
+- Zoomify
+
+</details>
+
+### P.S.
+
+"Kuvankaunis" is the Finnish word for "Picturesque", which I thought was fitting for this modpack :D
