@@ -310,7 +310,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "339b541f89e77ec032a761b8009d1d4c732beb96d20733953af20f496c4adead"
+hash = "ff7e28055b63e774f6bfd9f95119b9d3a5a24fbe21de30b5c78d5de19920ff88"
 
 [[files]]
 file = "config/yosbr/config/jade/hide-blocks.json"
