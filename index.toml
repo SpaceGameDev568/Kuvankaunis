@@ -14,7 +14,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = "config/TaskbarIconChanger/icon.png"
-hash = "e28f20f44961ca6f6322f51dfbd8303953fad15e7baf25e90eba6f2fea01da20"
+hash = "5f30aaf748ec7d0762403031884901c3f025912266e1d42c5387983b02b878d6"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -46,7 +46,7 @@ hash = "ac39420512ece55a61087db09fe6c4375aa8bd02966b78716c3e3e404938f693"
 
 [[files]]
 file = "config/mod-loading-screen/background.png"
-hash = "e05d92ed011c65d3e67e56e9d38efa768fd9f768a5e1456705f264acbabc0120"
+hash = "c4b893814b2d22b87de3dfa46cb1ce8bee1342ed336f96d2c088df06e72c0e92"
 
 [[files]]
 file = "config/mod-loading-screen/config.txt"
@@ -54,7 +54,7 @@ hash = "7209d2ff22de1ca289d2814affb12fc362b47983b60922e318cf50a088ed121d"
 
 [[files]]
 file = "config/mod-loading-screen/icon.png"
-hash = "e28f20f44961ca6f6322f51dfbd8303953fad15e7baf25e90eba6f2fea01da20"
+hash = "5f30aaf748ec7d0762403031884901c3f025912266e1d42c5387983b02b878d6"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -614,7 +614,7 @@ hash = "b5588b52189a4d68549b1af22c250a4e22fab0e28d7a4b72a8537e4bb4d01d3c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0ab055138d68ac2f93e832eed15a138ebc64fa61943caadd2d7e1195f0ffec2c"
+hash = "12c71fcc00220d7cd02e8f111d3817140e7f2f8b060ee4461a1a20c5f556d2a1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1113,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Kuvankaunis Pack Resources.zip"
-hash = "7d59ea59624e81fbab0892873abd7ca545630089f22430b53c65b50fb6a699ff"
+hash = "70ba95d152a40c649e3090a90a5b1a0eddc023ed63fc13d68195a222c96e30e3"
 
 [[files]]
 file = "resourcepacks/better-animations.pw.toml"
