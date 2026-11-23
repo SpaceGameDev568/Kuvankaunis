@@ -1,6 +1,6 @@
 name = "Kuvankaunis"
 author = "SpaceGameDev Modding"
-version = "2.2.1"
+version = "2.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
