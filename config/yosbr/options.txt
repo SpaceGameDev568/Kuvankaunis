@@ -3,7 +3,7 @@ ao:true
 biomeBlendRadius:2
 chunkSectionFadeInTime:0.0
 cutoutLeaves:true
-enableVsync:true
+enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false

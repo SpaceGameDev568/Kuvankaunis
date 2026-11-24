@@ -76,9 +76,8 @@
     "keyboard_movement": false,
     "keyboard_movement_whitelist": [],
     "seen_servers": [
-      "play.spacegamedev.com"
     ],
-    "show_splitscreen_ad": true,
+    "show_splitscreen_ad": false,
     "notify_low_battery": true,
     "ingame_button_guide_scale": 1.0,
     "use_enhanced_steam_deck_driver": true,
@@ -92,9 +91,5 @@
     "mixed_input": false,
     "out_of_focus_input": false
   },
-  "devices": {
-    "883ca6f8b1ae53a0eeeb2dd35c4b9777": {
-      "gyro_calibration": {}
-    }
-  }
+  "devices": {}
 }
