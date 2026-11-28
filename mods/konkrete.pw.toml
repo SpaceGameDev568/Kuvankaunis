@@ -1,13 +1,13 @@
 name = "Konkrete"
-filename = "konkrete_fabric_1.9.18_MC_1.21.11.jar"
+filename = "konkrete_fabric_1.11.1_MC_26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/J81TRJWm/versions/6ypTGwlP/konkrete_fabric_1.9.18_MC_1.21.11.jar"
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/pQLA2B54/konkrete_fabric_1.11.1_MC_26.3.jar"
 hash-format = "sha512"
-hash = "44d787e88d9e3991df90d8926b93620b7e347a5f30c27bd6bfa58016f38d3e549f2eafe7c66d9654f22c5d5fdc32ad977aec3be7d488efb766f6ce1b89f1f2fd"
+hash = "ef6b12dbf3f616ba4089e706f27d76c543987f4a20509bf3def711ddb9279b94170c67228b9e44a2e2c189a80a7c9a5cd4c7e079281b7ac1cb0ec7d9c46b9aa8"
 
 [update]
 [update.modrinth]
 mod-id = "J81TRJWm"
-version = "6ypTGwlP"
+version = "pQLA2B54"
